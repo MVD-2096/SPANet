@@ -6,10 +6,9 @@ of highly visualized, efficient, and fully non-contact surface defect detection.
 defect categories with real-world challenges. To achieve accurate defect detection, we propose Stereoscopic Perception Aggregation Network(SPANet). Finally, extensive experiments demonstrate that SPANet achieves superior detection performance.
 ![image](https://github.com/MVD-2096/Lightweight-Perception-Enhancement-Network/blob/main/Images/Introduction.png)
 
-## Detection hardware and workflow visualization
-We provide a physical diagram of the proposed system and the visualized workflow of the proposed system.
+## Workflow visualization
+We provide the visualized workflow of the proposed system.
 ![image](https://github.com/MVD-2096/Lightweight-Perception-Enhancement-Network/blob/main/Images/workflow.png)
-![image](https://github.com/MVD-2096/Lightweight-Perception-Enhancement-Network/blob/main/Images/Hardware.jpg)
 
 ## Network and experiments
 Here is the overall structure of our SPANet.
