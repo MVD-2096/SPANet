@@ -1,6 +1,6 @@
 # SPANet
-## Paper
-### Brief introduction
+## The main content of our paper
+### Introduction
 Collaborative detection of internal-external surface in cold-drawn steel tubes(CSTs) to sustain high efficiency remains highly challenging. Existing detection technologies are typically designed for either internal or external surface defects in isolation, and usually carried out separately from the production line. Moreover, internal-external surface defects of CSTs typically
 exhibit challenges, which may further degrade the performance of existing models. To effectively address the challenges, we propose a novel vision-based detection system, which is capable
 of highly visualized, efficient, and fully non-contact surface defect detection. Furthermore, we construct a comprehensive defect dataset for CSTs, named as CST1800, covering 13 representative
@@ -9,5 +9,16 @@ defect categories with real-world challenges. To achieve accurate defect detecti
 
 ### Detection hardware and workflow visualization
 We provide a physical diagram of the proposed system and the visualized workflow of the proposed system.
-![image](https://github.com/MVD-2096/Lightweight-Perception-Enhancement-Network/blob/main/Images/workflow.jpg)
+![image](https://github.com/MVD-2096/Lightweight-Perception-Enhancement-Network/blob/main/Images/workflow.png)
 ![image](https://github.com/MVD-2096/Lightweight-Perception-Enhancement-Network/blob/main/Images/Hardware.jpg)
+
+### Network and experiments
+Here is the overall structure of our SPANet.
+![image](https://github.com/MVD-2096/Lightweight-Perception-Enhancement-Network/blob/main/Images/Network.png)
+We select 20 state-of-the-art SOD methods from the past five years and conduct extensive comparative experiments to further evaluate the performance of SPANet. SPANet consistently maintains
+salient detection performance and achieves the best results across all 9 evaluation metrics, demonstrating its competitive advantages.
+![image](https://github.com/MVD-2096/Lightweight-Perception-Enhancement-Network/blob/main/Images/Experiment.png)
+
+### Prediction
+Here is the visualized prediction of comparison.
+![image](https://github.com/MVD-2096/Lightweight-Perception-Enhancement-Network/blob/main/Images/Visualization.png)
