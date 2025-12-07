@@ -1,7 +1,7 @@
 # SPANet
 ## Introduction
 **Collaborative detection** of internal-external surface in cold-drawn steel tubes(CSTs) to sustain high efficiency remains highly challenging. 
-Here is the problems proposed and solution.
+Here is the proposed problems and solution.
 ![image](https://github.com/MVD-2096/Lightweight-Perception-Enhancement-Network/blob/main/Images/Introduction.png)
 
 ## Workflow visualization
