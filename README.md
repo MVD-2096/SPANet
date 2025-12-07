@@ -8,15 +8,13 @@ We provide the visualized workflow of the proposed system.
 ![image](https://github.com/MVD-2096/Lightweight-Perception-Enhancement-Network/blob/main/Images/workflow.png)
 
 ## Network and experiments
-Here is the overall structure of our SPANet.
+Here is the overall structure of our SPANet. We select 20 state-of-the-art SOD methods from the past five years and conduct extensive comparative experiments to further evaluate the performance of SPANet. SPANet consistently maintains salient detection performance and achieves the best results across all 9 evaluation metrics, demonstrating its competitive advantages.
 ![image](https://github.com/MVD-2096/Lightweight-Perception-Enhancement-Network/blob/main/Images/Network.png)
 
-We select 20 state-of-the-art SOD methods from the past five years and conduct extensive comparative experiments to further evaluate the performance of SPANet. SPANet consistently maintains
-salient detection performance and achieves the best results across all 9 evaluation metrics, demonstrating its competitive advantages.
 ![image](https://github.com/MVD-2096/Lightweight-Perception-Enhancement-Network/blob/main/Images/Experiment.png)
-----
+
 ## Prediction
 Here is the visualized prediction of comparison.
 ![image](https://github.com/MVD-2096/Lightweight-Perception-Enhancement-Network/blob/main/Images/Visualization.png)
-----
+
 ## The source code and dataset will be pubish after the paper is accepted, thank you for understanding.
