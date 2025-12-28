@@ -20,4 +20,4 @@ Here is the comparison with 20 state-of-the-art methods from the past five years
 Here is the visualized prediction of comparison.
 ![image](https://github.com/MVD-2096/Lightweight-Perception-Enhancement-Network/blob/main/Images/Visualization.png)
 
-## The source code and dataset will be pubish after the paper is accepted, thank you for understanding.
+## The source code and dataset will be published after the paper is accepted, thank you for understanding.
